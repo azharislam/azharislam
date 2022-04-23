@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SwiftUI and Solidity**
 
-- 👨‍💻 All of my projects are available at [my Github profile.](my Github profile.)
+- 👨‍💻 All of my projects are available on Github (company projects are private)
 
 - 💬 Ask me about **Swift, Blockchain and apps.**
 
