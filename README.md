@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Swift, Blockchain and apps.**
 
-- 📫 How to reach me **azhar@wappza.com**
+- 📫 How to reach me **azhar@appza.com**
 
 - ⚡ Fun fact **My first app was on Android.**
 
