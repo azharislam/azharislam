@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">A creative iOS Developer from UK.</h3>
 
-- 🌱 I’m currently learning **SwiftUI and Solidity**
+- 🌱 I’m currently developing in **SwiftUI**
 
 - 👨‍💻 All of my projects are available on Github (company projects are private)
 
-- 💬 Ask me about **Swift, Blockchain and apps.**
+- 💬 Ask me about **Swift, AI, Blockchain and apps.**
 
 - 📫 How to reach me **azhar@appza.com**
 
