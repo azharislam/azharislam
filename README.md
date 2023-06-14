@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Swift, AI, Blockchain and apps.**
 
-- 📫 How to reach me **azhar@appza.com**
+- 📫 How to reach me **azhar@varleyparker.com**
 
 - ⚡ Fun fact **My first app was on Android.**
 
